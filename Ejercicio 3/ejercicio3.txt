@@ -1,0 +1,11 @@
+var 1nombre string --> MAL! Los nombres de variables no pueden comenzar con un nro
+CORRECCIÓN: var nombre string
+var apellido string --> Declaración con tipo de dato correcta
+var int edad --> MAL! Primero debe indicarse el nombre de la variable y luego su tipo de dato
+CORRECCIÓN: var edad int
+1apellido := 6 --> MAL! Las variables no pueden comenzar con un nro
+CORRECCIÓN: apellido := 6
+var licencia_de_conducir = true --> Declaración y asignación correcta
+var estatura de la persona int --> MAL! Las variables no pueden contener espacios
+CORRECCIÓN: var estatura_de_la_persona int
+cantidadDeHijos := 2 --> Declaración y asignación correcta
